@@ -25,6 +25,9 @@ function Navbar() {
         <span>
           <Link to="/">ALL PRODUCT</Link>
         </span>
+        <span>
+          <Link to="/form">Form</Link>
+        </span>
         <MDBBtn color='dark'>
           <Link to="/cart">CART({totalQuantity})</Link>
         </MDBBtn>
